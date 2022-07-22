@@ -2,8 +2,7 @@
 
 ## 👨‍💻 Java Development Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneMou&show_icons=true&theme=merko&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneMou&show_icons=true&theme=merko&locale=cn)
 <!--
 **AloneMou/AloneMou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
