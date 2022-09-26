@@ -8,4 +8,7 @@
 ![AgoniMou GitHub stats](https://github-readme-stats.vercel.app/api?username=AloneMou&show_icons=true&theme=radical&locale=cn)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AloneMou&repo=mou-rouyi-mybatis-plus)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AloneMou&repo=mou-rouyi-mybatis-plus)](https://github.com/AloneMou/mou-rouyi-mybatis-plus)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AloneMou&repo=mou-ruoyi-ant-design-vue)](https://github.com/AloneMou/mou-ruoyi-ant-design-vue)
