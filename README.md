@@ -1,4 +1,8 @@
 ### Hi there 👋
+![AgoniBlog博客](/wechat.png)
+
+
+
 ## 个人信息
 
 | 姓名： | 缪佳文            | 性别：     | 男             |
