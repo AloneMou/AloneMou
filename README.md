@@ -1,43 +1,13 @@
 ### Hi there 👋
-![AgoniBlog博客](/wechat.png)
-
-
 
 ## 个人信息
 
 | 姓名： | 缪佳文            | 性别：     | 男             |
 | ------ | ----------------- | ---------- | -------------- |
-| 年龄： | 24                | 学历：     | 本科           |
-| 民族： | 汉                | 工作经验： | 4年            |
+| 年龄： | 25                | 学历：     | 本科           |
+| 民族： | 汉                | 工作经验： | 5年            |
 | 邮箱： | 2627045617@qq.com | 职业方向： | Java开发工程师 |
 
-## 我的社交
-:tada: [CSDN](https://blog.csdn.net/qq_41322460)
-
-## 技术栈
-
-**:pushpin:技能** 
-```
-Java、MySQL、Redis、Vue2、JQuery、Element-UI
-```
-**:pushpin:框架**
-```
-Spring、SpringMvc、Mybatis、SpringBoot、SpringCloud、SpringSecurity
-```
-**:pushpin:中间件**
-```
-Elasticsearch、RabbitMQ、RocketMQ
-```
-**:pushpin:工具**
-
-```
-IDEA、Webstrom、Maven、Git、Postman
-```
-**:pushpin:部署**
-
-```
-Nginx、Linux、Tomcat
-```
 
 ## 👨‍💻 Java Development Engineer
 
